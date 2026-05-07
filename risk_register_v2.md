@@ -60,7 +60,7 @@ Sau khi dùng AI như CRO reviewer, tôi bổ sung các blindspots sau:
 | 14 | Data retention unclear | Regulatory | 3 | 3 | 9 | Mitigate |
 
 ---
-
+Prompt tạo top 10 ban đầu, sau khi merge với manual risks và AI-found blindspots, tôi giữ 14 để coverage đầy đủ; top 5 đã được ưu tiên riêng.
 ## Risk 1: OpenAI Realtime dependency
 
 - Type: Vendor
